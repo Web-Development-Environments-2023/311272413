@@ -14,7 +14,7 @@
 - The site representing a glamps of Samuel l. jackson, one of my favored movie actor's.
 - In the gallery you can find some photos of him of selected movies.
 - The video is the best scene in my opinion, taken from Pulp Fiction movie.
-                       - Enjoy!
+- Enjoy!
 
 ## Feedback
 If you have any feedback, please reach out to us at krotonet@post.bgu.ac.il
